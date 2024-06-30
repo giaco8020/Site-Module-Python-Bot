@@ -1,2 +1,2 @@
 # Site-Module-Python-Bot
-Modules to automate online purchases
+These modules were written until 2021 and are no longer functional. They are not intended for malicious use but for informational purposes only
